@@ -8,3 +8,4 @@ plotly
 scikit-image
 email-validator
 python-dotenv
+cmake
