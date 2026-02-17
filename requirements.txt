@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+face_recognition
+pandas
+numpy
+matplotlib
+plotly
+scikit-image
+email-validator
+python-dotenv
